@@ -1,0 +1,17 @@
+name: canvas_showcase
+description: A Flutter package for creating showcases/tutorials that correctly handles canvas scaling via FittedBox. Based on showcaseview but optimized for scaled canvas environments.
+version: 1.0.0
+homepage: https://github.com/Aufco/canvas_showcase
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
